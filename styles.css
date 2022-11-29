@@ -1,9 +1,7 @@
-
-
-:root{
-    --clr-primary:rgb(144, 30, 30);
+:root {
+  --clr-primary: rgb(144, 30, 30);
 }
 
-.headers{
-    color:var(--clr-primary);
+.headers {
+  color: var(--clr-primary);
 }
