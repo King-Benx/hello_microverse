@@ -1,8 +1,9 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-  <h3><b>Hello Microverse</b></h3>
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+  <h3><b>Microverse Readme</b></h3>
 
 </div>
 
@@ -104,8 +105,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank the Microverse learning resources for all the helpful information rendered in completion of this project.
 
