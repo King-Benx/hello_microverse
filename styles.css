@@ -1,0 +1,9 @@
+
+
+:root{
+    --clr-primary:rgb(144, 30, 30);
+}
+
+.headers{
+    color:var(--clr-primary);
+}
